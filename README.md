@@ -1,4 +1,6 @@
 # my_search
+- 用来学习vue的基本知识
+- 两个单页面的项目
 
 ## Project setup
 ```
